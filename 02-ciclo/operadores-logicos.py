@@ -1,1 +1,1 @@
-valor_uno = floia 
+valor_uno = float 
