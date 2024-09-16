@@ -1,1 +1,1 @@
-valor_uno = float(inp) 
+valor_uno = float(im) 
