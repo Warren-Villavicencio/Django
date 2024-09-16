@@ -18,7 +18,7 @@ print(resultado)
 
 edad = int(input("Ingresa tu edad ")) 
 
-if edad > 18 and < 35:
+if edad > 18 and <= 35:
     print("puedes ingresar")
 else:
     print("no puedes entar")
