@@ -1,1 +1,1 @@
-valor_uno = float(inou) 
+valor_uno = float(inpu) 
