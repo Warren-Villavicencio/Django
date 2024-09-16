@@ -21,3 +21,4 @@ resultado = valor_dos and valor_dos
 print(resultado)
 
 
+
