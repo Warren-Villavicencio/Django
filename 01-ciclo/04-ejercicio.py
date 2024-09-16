@@ -4,4 +4,4 @@
 
 name = str(input("¿Cuál es tu nombre? "))
 edad = int(input("¿Cuál es tu nombre? "))
-altura = flo(input("¿Cuál es tu nombre? "))
+altura = float(input("¿Cuál es tu nombre? "))
