@@ -1,1 +1,1 @@
-valor_uno = float(im) 
+valor_uno = float(inou) 
