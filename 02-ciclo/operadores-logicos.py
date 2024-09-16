@@ -1,1 +1,1 @@
-comparacion 
+comparacion =
