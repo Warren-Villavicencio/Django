@@ -13,6 +13,8 @@ valor_dos = float(input("Ingrese el segundo valor "))
 comparacion = valor_dos == valor_dos
 print(comparacion)
 
-#
+#logicos
+
+
 
 
