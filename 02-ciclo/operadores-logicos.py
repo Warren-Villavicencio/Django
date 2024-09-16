@@ -16,5 +16,5 @@ print(resultado)
 #logicos
 
 
-edad = float(input("Ingresa el primer valor ")) 
+edad = int(input("Ingresa el primer valor ")) 
 
