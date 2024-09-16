@@ -19,5 +19,5 @@ print(resultado)
 edad = int(input("Ingresa tu edad ")) 
 
 if edad == 18 or 35:
-    print(pue)
+    print(puedes ingresar)
 
