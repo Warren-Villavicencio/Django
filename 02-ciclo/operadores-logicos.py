@@ -18,5 +18,5 @@ print(resultado)
 
 edad = int(input("Ingresa tu edad ")) 
 
-if edad == 
+if edad == 18
 
