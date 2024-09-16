@@ -20,5 +20,5 @@ edad = int(input("Ingresa tu edad "))
 
 if edad == 18 or 35:
     print("puedes ingresar")
-else
+else:
     print("no puedes entar")
