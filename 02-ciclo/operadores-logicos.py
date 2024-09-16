@@ -1,1 +1,1 @@
-comparacion_uno = 
+valor_uno = 
