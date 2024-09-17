@@ -1,28 +1,4 @@
- #   __             __
- #      /_ \_.--"""--._/ _\
- #      \ )   _     _   ( /
- #       |   (o)___(o)   |
- #       |      \_/      |
-        \       |       /
-         \          /
-          \_    _    _/
-         ___)==( )==(___
-       /'      //\      `\
-      /       // \\       \
-     /   |   |/   \|   |   \
-    /,_ /|             |\ _,\
-   ((_// |             | \\_))
-    `-'  |             |  `-'
-         |             |
-         |             |
-         |      _      |
-        /      / \      \
-   jgs /      /   \      \
-      /      /     \      \
-    _/      /       \      \_
-   ( _____ /         \ _____ )
-    '-----'           `-----'
-# validacion_tarjeta.py
+
 
 def validar_tarjeta(numero_tarjeta):
   """Valida un número de tarjeta de crédito utilizando el algoritmo de Luhn.
