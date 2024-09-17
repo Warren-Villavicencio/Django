@@ -1,24 +1,12 @@
-valor_uno = float(input("Ingresa el primer valor ")) 
-valor_dos = float(input("Ingrese el segundo valor ")) 
-resultado = valor_dos <= valor_dos
-print(resultado)
 
-valor_uno = float(input("Ingresa el primer valor ")) 
-valor_dos = float(input("Ingrese el segundo valor ")) 
-resultado = valor_dos != valor_dos
-print(resultado)
-
-valor_uno = float(input("Ingresa el primer valor ")) 
-valor_dos = float(input("Ingrese el segundo valor ")) 
-resultado = valor_dos == valor_dos
-print(resultado)
 
 #logicos
 
-
 edad = int(input("Ingresa tu edad ")) 
-
-if edad >= 18 and edad <= 35:
+cedula = str(input("Tienes cédula de identidad si o no ")) 
+if edad >= 18 and edad <= 35 and cedula == "si":
     print("puedes ingresar")
 else:
-    print("no puedes entar")
+    print("no puedes ingresar")
+
+
