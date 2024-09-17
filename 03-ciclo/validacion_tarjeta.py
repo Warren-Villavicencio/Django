@@ -1,6 +1,6 @@
 
 
-numero_de_tarjeta = 0962720161
+numero_de_tarjeta = 962720161
 while contador <= 10:
     print(contador)
     contador += 1
