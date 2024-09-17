@@ -1,6 +1,6 @@
 
 
-numero de tarjeta = 1
+numero de tarjeta = 
 while contador <= 10:
     print(contador)
     contador += 1
