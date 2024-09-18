@@ -5,3 +5,6 @@ if numero_uno == numero_segundo:
     print(" Son iguales")
 else:
     print(" no Son iguales")
+    
+    
+    
