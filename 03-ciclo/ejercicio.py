@@ -1,1 +1,1 @@
-numero_uno = int
+numero_uno = int()
