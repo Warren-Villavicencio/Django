@@ -1,1 +1,1 @@
-nombrepersonas =
+nombre_personas =
