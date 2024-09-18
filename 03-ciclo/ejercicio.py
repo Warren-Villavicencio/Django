@@ -1,1 +1,1 @@
-numero_uno = int(input(" Ingresa un mundo."))
+numero_uno = int(input(" Ingrese el primer número."))
