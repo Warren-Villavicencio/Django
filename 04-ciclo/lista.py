@@ -1,1 +1,1 @@
-nombre_personas = str(input("ingresa el nombre de la[]))
+nombre_personas = str(input([]))
