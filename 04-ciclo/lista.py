@@ -1,1 +1,1 @@
-nombre_personas = str(input(·))
+nombre_personas = str(input(""))
