@@ -3,3 +3,4 @@ numero_segundo = int(input(" Ingrese el segundo número."))
 
 if numero_uno == numero_segundo:
     print(" Son iguales")
+    
