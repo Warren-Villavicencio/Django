@@ -1,1 +1,1 @@
-nombre_personas = input()
+nombre_personas = (input()
