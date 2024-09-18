@@ -1,1 +1,1 @@
-numero_uno = int(input())
+numero_uno = int(input(""))
